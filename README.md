@@ -1,3 +1,5 @@
-# Personalprojects
-My personal c++ projects
-RAndom shits i tried 
+# Personal projects
+
+My personal c++ projects.
+
+Random shits I tried .
